@@ -1,0 +1,352 @@
+# Webalizer V2.23-08 Incremental Data - 08/08/2022 19:27:13
+2022 8 8 19 27 13
+101 57 49 16 2 11 1361168 37 37 0
+11 1 11 1 8
+15 4 84592 10 5 5
+4 4 63569 3 2 2
+23 13 339503 16 7 7
+15 12 322451 10 5 5
+11 3 63444 5 5 5
+8 5 105740 6 5 5
+12 4 84592 9 6 6
+13 12 297277 11 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 2 42296 2
+2 2 42296 2
+3 1 10821 0
+10 8 237894 1
+2 1 10767 0
+4 1 21148 2
+1 0 0 0
+4 2 31634 1
+4 2 42296 2
+4 2 42296 2
+6 5 133013 2
+4 4 132190 1
+13 10 211480 10
+19 9 254822 2
+1 0 0 0
+4 1 21148 3
+3 1 21148 2
+2 1 10821 0
+0 0 0 0
+2 2 31654 1
+0 0 0 0
+0 0 0 0
+3 1 21148 1
+5 2 42296 3
+0
+0
+0
+57
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+1
+0
+0
+38
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/demo/100x10002.png
+0 1 8299978418438106209 10506 0 0
+/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff2
+0 3 109 178716 0 0
+/layout/styles/layout.css
+0 3 3759723056443767089 69024 0 0
+/layout/styles/fontawesome-free/css/all.css
+0 3 3257282517781475170 137061 0 0
+/images/demo/100x10009.png
+0 2 4121129208534610177 21534 0 0
+/images/demo/100x10005.png
+0 1 673 10486 0 0
+/layout/styles/framework.css
+0 3 3344607081037000238 17349 0 0
+/rd06.html
+0 1 6475445 0 1 0
+/layout/scripts/jquery.mobilemenu.js
+0 3 1659012872 3930 0 0
+/images/demo/100x10008.png
+0 2 0 21642 0 0
+/layout/scripts/jquery.backtotop.js
+0 3 0 1863 0 0
+/pro01.html
+0 1 0 0 1 0
+/rd01.html
+0 1 0 0 1 1
+/
+0 31 0 613292 33 16
+/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff2
+0 1 0 14952 0 0
+/layout/scripts/jquery.min.js
+0 3 0 260778 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-54-245-191-103.us-west-2.compute.amazonaws.com
+0 1 0 0 0 0
+-
+petalbot-114-119-133-78.petalsearch.com
+0 1 0 0 0 0
+-
+205.210.31.138
+0 1 1 21148 1 1659986833
+/
+ec2-18-236-155-35.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659617740
+/
+petalbot-114-119-139-183.petalsearch.com
+0 1 0 0 0 0
+-
+ec2-35-92-4-83.us-west-2.compute.amazonaws.com
+0 2 1 21148 1 1659876741
+/
+msnbot-157-55-39-54.search.msn.com
+0 16 0 0 0 0
+-
+petalbot-114-119-144-116.petalsearch.com
+0 1 0 0 0 0
+-
+40.77.139.41
+0 1 1 5783 0 0
+-
+ec2-18-237-134-15.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659528890
+/
+40.77.139.112
+0 1 1 45687 0 0
+-
+msnbot-157-55-39-79.search.msn.com
+0 4 3 32148 1 1659521604
+/rd06.html
+petalbot-114-119-130-248.petalsearch.com
+0 1 0 0 0 0
+-
+40.77.139.102
+0 1 1 59572 0 0
+-
+ec2-34-218-236-27.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659357849
+/
+petalbot-114-119-145-237.petalsearch.com
+0 1 0 0 0 0
+-
+ec2-35-88-86-206.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659357878
+/
+ec2-34-221-244-241.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659789289
+/
+consider.iovdldps.com
+0 1 0 0 0 0
+-
+msnbot-207-46-13-86.search.msn.com
+0 1 1 23008 0 0
+-
+ec2-35-87-132-172.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659528912
+/
+petalbot-114-119-147-110.petalsearch.com
+0 1 0 0 0 0
+-
+ec2-35-164-194-220.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659876709
+/
+petalbot-114-119-130-31.petalsearch.com
+0 1 0 0 0 0
+-
+msnbot-40-77-167-50.search.msn.com
+0 1 0 0 0 0
+-
+msnbot-207-46-13-5.search.msn.com
+0 19 16 338368 18 1659945412
+/
+msnbot-157-55-39-126.search.msn.com
+0 1 1 1310 0 0
+-
+whirl.istudyco.com
+0 1 0 0 1 1659851127
+-
+112.29.170.10
+0 1 0 0 1 1659370781
+/
+petalbot-114-119-139-115.petalsearch.com
+0 1 0 0 0 0
+-
+free.ds
+0 1 0 0 0 0
+-
+msnbot-40-77-190-213.search.msn.com
+0 4 4 125994 0 0
+-
+198.235.24.152
+0 1 1 21148 1 1659793543
+/
+planetlab24.gino-research.net.in.tum.de
+0 1 0 0 0 0
+-
+msnbot-40-77-189-41.search.msn.com
+0 1 1 5783 0 0
+-
+ec2-54-245-77-119.us-west-2.compute.amazonaws.com
+0 1 1 21148 1 1659528868
+/
+petalbot-114-119-144-179.petalsearch.com
+0 1 0 0 0 0
+-
+msnbot-40-77-167-80.search.msn.com
+0 5 5 23397 0 0
+-
+77-108-158-51.instances.scw.cloud
+0 1 0 35 1 1659498186
+/
+petalbot-114-119-130-199.petalsearch.com
+0 1 0 0 0 0
+-
+appetite.cadiak.com
+0 1 0 0 0 0
+-
+msnbot-40-77-167-22.search.msn.com
+0 3 2 2620 0 0
+-
+ec2-54-189-36-8.us-west-2.compute.amazonaws.com
+0 2 1 21148 1 1659789320
+/
+msnbot-40-77-189-30.search.msn.com
+0 1 1 45687 0 0
+-
+researchscan36.comsys.rwth-aachen.de
+0 1 1 21148 1 1659631876
+/
+msnbot-207-46-13-74.search.msn.com
+0 1 0 0 1 1659706405
+/pro01.html
+msnbot-157-55-39-196.search.msn.com
+0 3 2 46016 1 1659886318
+/
+msnbot-207-46-13-177.search.msn.com
+0 4 4 271264 0 0
+-
+msnbot-40-77-188-94.search.msn.com
+0 1 1 59572 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+205.210.31.138
+0 1 1 21148 1 1659986833
+/
+msnbot-157-55-39-79.search.msn.com
+0 1 1 10821 0 0
+-
+msnbot-207-46-13-86.search.msn.com
+0 1 1 23008 0 0
+-
+msnbot-207-46-13-5.search.msn.com
+0 1 1 21148 1 1659945412
+/
+msnbot-157-55-39-126.search.msn.com
+0 1 1 1310 0 0
+-
+petalbot-114-119-139-115.petalsearch.com
+0 1 0 0 0 0
+-
+msnbot-40-77-189-41.search.msn.com
+0 1 1 5783 0 0
+-
+msnbot-40-77-167-80.search.msn.com
+0 2 2 11388 0 0
+-
+msnbot-40-77-189-30.search.msn.com
+0 1 1 45687 0 0
+-
+msnbot-207-46-13-177.search.msn.com
+0 2 2 97412 0 0
+-
+msnbot-40-77-188-94.search.msn.com
+0 1 1 59572 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 100
+http://misc.yahoo.com.cn/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 10
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 51
+Mozilla/5.0+(compatible;+Baispider/2.0;++http://www.bai.com/search/spider.html)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 4
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

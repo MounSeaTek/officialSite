@@ -1,0 +1,57 @@
+--- 
+files: 
+  certificate: 
+    shcmyth_com_bbe3e_360d9_1664475057_1ea821caa7d36b1eca3f7b5b3041926c: 
+      created: '1632939058'
+      domains: 
+        - shcmyth.com
+        - mail.shcmyth.com
+        - www.shcmyth.com
+        - cpanel.shcmyth.com
+        - webmail.shcmyth.com
+        - webdisk.shcmyth.com
+        - cpcontacts.shcmyth.com
+        - cpcalendars.shcmyth.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “shcmyth.com”
+      id: shcmyth_com_bbe3e_360d9_1664475057_1ea821caa7d36b1eca3f7b5b3041926c
+      is_self_signed: 1
+      issuer.commonName: shcmyth.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: bbe3e398ebbb47fedc5e3e3f26831ad200f57672da751e2a32664fe8bccd67624418bdfebb659947d82fdfa1a5ab79058729bfe8dad56ccf3610aced62a81745e3ad6c9fdb87817971dc7fabbf5e0c0acd59705ef35f47cfe5c336e577fa4a02606bf84adc584857d7d654462c0e6aed0185a0b5488829ebf62b9a32b198efcdfdcc78e1e45ce1bcf6742e2d97ae6b1e977b219a7d468fc48a7c35ef4b69dc88eb508517e44e9cca99930e3ac501076568705e9bced3f8a9657acd24f4123324449bdd7d0715856edaaea3626a685b51e9031eac9f200e37bd48ffbef9f9df526066a8197d6b73324cf8e1f35ed39a13b772b365dfaf62e52d143daefc6360d9
+      modulus_length: 2048
+      not_after: '1664475057'
+      not_before: '1632939057'
+      serial: 01c4749b75
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: shcmyth.com
+      validation_type: ~
+  key: 
+    bbe3e_360d9_2a20460347956b8fddb4e8e5a365de1f: 
+      created: '1632939058'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “shcmyth.com”
+      id: bbe3e_360d9_2a20460347956b8fddb4e8e5a365de1f
+      key_algorithm: rsaEncryption
+      modulus: bbe3e398ebbb47fedc5e3e3f26831ad200f57672da751e2a32664fe8bccd67624418bdfebb659947d82fdfa1a5ab79058729bfe8dad56ccf3610aced62a81745e3ad6c9fdb87817971dc7fabbf5e0c0acd59705ef35f47cfe5c336e577fa4a02606bf84adc584857d7d654462c0e6aed0185a0b5488829ebf62b9a32b198efcdfdcc78e1e45ce1bcf6742e2d97ae6b1e977b219a7d468fc48a7c35ef4b69dc88eb508517e44e9cca99930e3ac501076568705e9bced3f8a9657acd24f4123324449bdd7d0715856edaaea3626a685b51e9031eac9f200e37bd48ffbef9f9df526066a8197d6b73324cf8e1f35ed39a13b772b365dfaf62e52d143daefc6360d9
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      bbe3e398ebbb47fedc5e3e3f26831ad200f57672da751e2a32664fe8bccd67624418bdfebb659947d82fdfa1a5ab79058729bfe8dad56ccf3610aced62a81745e3ad6c9fdb87817971dc7fabbf5e0c0acd59705ef35f47cfe5c336e577fa4a02606bf84adc584857d7d654462c0e6aed0185a0b5488829ebf62b9a32b198efcdfdcc78e1e45ce1bcf6742e2d97ae6b1e977b219a7d468fc48a7c35ef4b69dc88eb508517e44e9cca99930e3ac501076568705e9bced3f8a9657acd24f4123324449bdd7d0715856edaaea3626a685b51e9031eac9f200e37bd48ffbef9f9df526066a8197d6b73324cf8e1f35ed39a13b772b365dfaf62e52d143daefc6360d9: 
+        shcmyth_com_bbe3e_360d9_1664475057_1ea821caa7d36b1eca3f7b5b3041926c: ~
+    subject.commonName: 
+      shcmyth.com: 
+        shcmyth_com_bbe3e_360d9_1664475057_1ea821caa7d36b1eca3f7b5b3041926c: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “shcmyth.com”: shcmyth_com_bbe3e_360d9_1664475057_1ea821caa7d36b1eca3f7b5b3041926c
+  key: 
+    friendly_name: 
+      Key for “shcmyth.com”: bbe3e_360d9_2a20460347956b8fddb4e8e5a365de1f
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      bbe3e398ebbb47fedc5e3e3f26831ad200f57672da751e2a32664fe8bccd67624418bdfebb659947d82fdfa1a5ab79058729bfe8dad56ccf3610aced62a81745e3ad6c9fdb87817971dc7fabbf5e0c0acd59705ef35f47cfe5c336e577fa4a02606bf84adc584857d7d654462c0e6aed0185a0b5488829ebf62b9a32b198efcdfdcc78e1e45ce1bcf6742e2d97ae6b1e977b219a7d468fc48a7c35ef4b69dc88eb508517e44e9cca99930e3ac501076568705e9bced3f8a9657acd24f4123324449bdd7d0715856edaaea3626a685b51e9031eac9f200e37bd48ffbef9f9df526066a8197d6b73324cf8e1f35ed39a13b772b365dfaf62e52d143daefc6360d9: bbe3e_360d9_2a20460347956b8fddb4e8e5a365de1f
